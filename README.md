@@ -14,7 +14,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 
 
 * [Apellidos, Nombre]()
-
+* [Zaragoza González, José Luís](https://github.com/JoseZG1)
 
 :star: Si te gusta este repo, dale una estrellita :wink:
 
